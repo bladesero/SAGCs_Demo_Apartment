@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b9df62e810afed848b1713708f848906
+timeCreated: 1500275749
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HYPingAnXingJ
+  fontNames:
+  - HYPingAnXingJ
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

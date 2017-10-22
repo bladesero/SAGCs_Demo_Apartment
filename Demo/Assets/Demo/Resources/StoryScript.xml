@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<storyScript>
+<scene name="Demo">
+	<section index="1">
+		<sentence index="1" character="YeAn_aside">我径直走回家后，打算掏出钥匙开门，钥匙似乎并不能打开</sentence>
+		<sentence index="2" character="YeAn_aside">我于是从侧窗翻了进去，里面是有个人的，是贼吗?</sentence>
+		<sentence index="3" character="YeAn">“喂你什么人！”，我冲着他大喊.</sentence>
+		<sentence index="4" character="Shorker">“朋友冷静一下，这似乎是我的房子吧，你在说什么?”，他面带苦笑的说道.</sentence>
+		<sentence index="5" character="YeAn">“什么你的房子，现在，给我出去!”</sentence>
+		<sentence index="6" character="Shorker">“啊好好好，我正好要出去一下，你就先自己随便坐坐吧”一边说着话的他，一边慌张的离开了房子</sentence>
+		<command>section 2</command>
+	</section>
+	
+	<section index="2">
+		<sentence index="1" character="YeAn_aside">把那个莫名其妙的人赶走后,我开始冷静下来查看这个房子.</sentence>
+		<sentence index="2" character="YeAn_aside">诶等等,这个房子是我的吗?我走出门口再次确认了一次地址,确实没错,但这个房子真的除了格局和地址之外,没东西像是我的.</sentence>
+		<sentence index="3" character="YeAn_aside">我随后又走上了二楼,这里本是我的卧室,当然了这里已经不是我的卧室,似乎是变成了一个食厅?</sentence>
+		<sentence index="4" character="YeAn_aside">等等,我卧室的柜子左侧墙壁是被我开凿开存放一些私人物品的</sentence>
+		<sentence index="5" character="YeAn_aside">这是小时候的一种念想吧,总想着在房间里打个洞,存放自己的一些”机密文件”.说不定这里会找到我的破洞?</sentence>
+		<sentence index="6" character="YeAn_aside">虽然这里怎么看也不像是我先前自己的房子了,但我还是抱有一丝寥寥的侥幸的</sentence>
+		<sentence index="7" character="YeAn_aside">毕竟又不是什么穿越游戏,怎么可能房子就这样突然消失的</sentence>
+		<command>section 3</command>
+	</section>
+	
+	<section index="3">
+		<sentence index="1" character="YeAn_aside">“这不是我的东西吗”过于惊讶我自己都忍不住发出了声.</sentence>
+		<sentence index="2" character="YeAn_aside">但是这本笔记,我并没有放置在这个破洞里,我记得是小时候搬家就已经搞丢了的</sentence>
+		<sentence index="3" character="YeAn_aside">这着实是让我觉得越来越奇怪了,不过可以确定的一点,这个确实不是我的房子</sentence>
+		<command>section 4</command>
+	</section>
+	
+	<section index="4" >
+		<sentence index="1" character="Enviroment">(敲门声)</sentence>
+		<sentence index="2" character="YeAn_aside">我知道是那位友好的先生回来了,我跑下楼把门打开.</sentence>
+		<sentence index="3" character="PoliceMan">在那位先生旁边站着的一位警察对我说到,先生你是不是走错了房子,如果是,那么请你离开.如果不是,那么请你和我回警察局一趟.</sentence>
+		<sentence index="4" character="YeAn_aside">这个,是那位我醒来见到的警官,但他,似乎并不记得有见过我的事?</sentence>
+		<command>section 5</command>
+	</section>
+	
+	<section index="5">
+		<sentence index="1" character="YeAn_aside">我还有太多的事情没有弄清楚,如果现在不留下来,下次就一定没有机会了,房子似乎是出租的.</sentence>
+			<sentence index="2" character="YeAn">先生,其实我是想来租房子的,刚刚给您造成了困扰实在是不好意思</sentence>
+			<sentence index="3" character="YeAn">因为这太像那个有情父的妻子所夺走的我的房子了,所以我刚刚对您的无礼还望您见谅</sentence>
+			<sentence index="4" character="YeAn_aside">说有妻子只不过是个借口,根本就没有这么一个人,话也是学那些营销电话的口吻</sentence>
+			<sentence index="5" character="Shorker">原来是这样啊,警察先生有劳了,我会和我的客人好好商议的了,类似的事件不会再发生了,还有请回吧</sentence>
+			<sentence index="6" character="YeAn_aside">先生微笑着对警察说到,真是位友好的先生,估计我想知道的,他告诉我的吧</sentence>
+			<sentence index="7" character="PoliceMan">既然如此也是好事,我就先离开了</sentence>
+			<sentence index="8" character="YeAn_aside">我留下来了</sentence>
+			<sentence index="9" character="Shorker">要不我们出去先走走,我看你不像是这边的人,先熟悉一下周围环境吧</sentence>
+			<sentence index="10" character="YeAn">嗯,好</sentence>
+			<sentence index="11" character="YeAn">因为我身上也确实没钱,租金能拖就要拖,再说,这位先生说不定还能让我赊账</sentence>
+			<command>scene 7:50</command>
+	</section>
+	
+	<section index="6">
+		<sentence index="1" character="YeAn_aside">我觉得这里确实也没有什么逗留的必要,反而是这个警官是有些让我在意了</sentence>
+		<sentence index="2" character="YeAn_aside">我便开始四处砸东西,营造一种我是个疯子的感觉.</sentence>
+		<command>scene 7:40</command>
+	</section>
+	
+</scene>
+
+<scene name="7:40">
+	<section index="1">
+		<sentence index="1" character="YeAn_aside">果不其然的警察把我带回了警察局进行对话</sentence>
+		<sentence index="2" character="YeAn_aside">但是我现在的角色可是个疯子,他不能把我怎么样,既然如此我就继续给他装疯卖傻</sentence>
+		<sentence index="3" character="YeAn_aside">果不其然的警察把我带回了警察局进行对话</sentence>
+		<sentence index="4" character="YeAn">看!看!.....天神啊!!..你为何要降罪与那个女孩让她到你的怀中</sentence>
+		<sentence index="5" character="PoliceMan">你在说什么降罪?</sentence>
+		<sentence index="6" character="YeAn">降罪?...降罪啊!还不简单吗,就是在一个指定的地方就要死掉哦,而且都死得相当的惨呢</sentence>
+		<sentence index="7" character="YeAn">被人,一刀,一刀,同处一个个娄子,让肮脏的内脏脱离躯壳,灵魂回到天国</sentence>
+		<sentence index="8" character="PoliceMan">什么,有凶杀案?</sentence>
+		<sentence index="9" character="YeAn">啊,不哦,是神把她放养的牲畜收回而已</sentence>
+		<sentence index="10" character="PoliceMan">那你说,那个指定的地方是哪里?</sentence>
+		<sentence index="11" character="YeAn">你说连接天国与凡间的地方会是哪呢?当然是陵园啦,难不成你们的所谓入土为安都是假的?</sentence>
+		<sentence index="12" character="PoliceMan">哪个陵园?</sentence>
+		<sentence index="13" character="YeAn">你认识神吗?啊哈哈,我也不认识,那么,我又怎么会知道在哪呢?</sentence>
+		<sentence index="14" character="YeAn_aside">我知道这个所谓世界已经和我所知道的是有所区别的,那只好利用一下警力把周围都找一下了.</sentence>
+		<sentence index="15" character="YeAn_aside">警察转身离开了审讯室,应该是去查档案了.</sentence>
+		<command>scene 7:45</command>
+	</section>
+	
+</scene>
+
+<scene name="7:45">
+	<section index="1">
+		<sentence index="1" character="YeAn_aside">不久回来只后,只是和我草草说一些基本的社民准则之后便让我离开了</sentence>
+		<sentence index="2" character="YeAn_aside">谁会在一个疯子身上花费时间呢,但起码知道了一件事,那就是,这里附近没有凶杀案</sentence>
+		<sentence index="3" character="YeAn_aside">说不定我的妹妹在这个世界还活着,那我应该把她从这个冥界带回去了.</sentence>
+		<sentence index="4" character="YeAn_aside">在审讯室门外的走廊上,不知怎么的,那位先生突然出现在我和警官面前</sentence>
+		<sentence index="5" character="Doctor">警官请问你能把他交给我吗,我其实是一个心理医生,这位先生的病例十分罕见,我希望您能把这位先生交给我治疗</sentence>
+		<sentence index="6" character="YeAn_aside">说着他拿出自己的心理医生资格证</sentence>
+		<sentence index="7" character="YeAn_aside">警官仔细查看资格证后说道</sentence>
+		<sentence index="8" character="PoliceMan">啊好吧先生,既然你不嫌麻烦,我们也相信你的业务水平</sentence>
+		<sentence index="9" character="PoliceMan">毕竟这个疯子如果有钱治疗早就治好了,治好他也是为社会减少了一个定时炸弹,有劳了</sentence>
+		<sentence index="10" character="YeAn_aside">说罢便把我交给了那位先生</sentence>
+		<command>scene 7:45</command>
+	</section>
+	
+</scene>
+
+<scene name="7:50">
+	<section index="1">
+		<sentence index="1" character="Shorker">你认识这里吗？</sentence>
+		<sentence index="2" character="YeAn_aside">我环顾四周似乎并不认识.摇头示意到.</sentence>
+		<sentence index="3" character="Shorker">这是你妹妹被杀死的陵园.</sentence>
+		<sentence index="4" character="YeAn_aside">我脑内充斥了各式各样的想法,当时除了凶手和我和妹妹之外别无他人,他既然知道我妹妹死了,而且死在了这里,难道他就是凶手？</sentence>
+		<sentence index="5" character="YeAn_aside">不,不是这样的,我昏迷了之后是谁报的警,不然怎么会有警察来,难道他是报警的路人….</sentence>
+		<sentence index="6" character="YeAn_aside">我思绪渐渐凌乱,在失重的感觉下,抓不住一丝头绪.</sentence>
+		<sentence index="7" character="YeAn_aside">路旁的树枝上缠绕着风筝,在树下的小孩无论如何都够不着,便在屡次失败后坐在地上哭</sentence>
+		<sentence index="8" character="YeAn_aside">对啊,无能为力的事,除了哭泣能宣泄情感外别的都只是徒劳罢了.</sentence>
+		<sentence index="9" character="Shorker">关于你妹妹的死我知道的确实不多,我所了解到的全部都在我的日记簿里,我们回去之后我就把它交给你吧.</sentence>
+		<sentence index="10" character="YeAn_aside">这句话宛如一声集结号,打破了我的空白,抽回到了现实之中</sentence>
+		<sentence index="11" character="YeAn_aside">突然刮起了一阵风,缠着风筝的树枝被风筝牵断,银线散落在小孩的手上,停止了啜泣.</sentence>
+		<sentence index="12" character="YeAn">现在回去!</sentence>
+		<sentence index="13" character="YeAn_aside">我知道这是我唯一可以做的,不能再丢失我力所能及的一切努力了</sentence>
+		<sentence index="14" character="Shorker">我的保险柜钥匙托在了一个通灵店里头,店主当时来到我家和我说她需要一个灵媒来完成她的占卜</sentence>
+		<sentence index="15" character="Shorker">她也说出了日记的内容,我觉得交给她也没有什么坏处,所以就把钥匙给了她</sentence>
+		<sentence index="16" character="Shorker">我得去把钥匙领回来才可以</sentence>
+		<sentence index="17" character="Shorker">他说着这话时也是含糊不清,估计他也不知道为什么当时就要把钥匙给了她,可能是因为对方是魔女吧.</sentence>
+		<sentence index="18" character="YeAn">既然如此但愿一切平安吧</sentence>
+		<sentence index="19" character="YeAn_aside">我只好言听计从,没有一丝头绪</sentence>
+		<sentence index="20" character="Shorker">你走街上也没有什么可以做的,要不还是先回房子休息一下吧,到这边的世界你估计还没习惯吧.</sentence>
+		<sentence index="21" character="YeAn_aside">他究竟是何人,了解我的所知与未知?</sentence>
+		<sentence index="22" character="YeAn_aside">不过也确实如他所言,我的头部像是一口灌下400ml的冰水一样剧痛.</sentence>
+		<sentence index="23" character="YeAn">嗯.</sentence>
+		<sentence index="24" character="YeAn_aside">体温逐渐使冰水升温,里面的冰块也已经消融,留下了澄澈的白.</sentence>
+		<command>scene end</command>
+	</section>
+	
+</scene>
+
+<scene name="8:15">
+	<section index="1">
+		<sentence index="1" character="YeAn_aside">回到家后,我在二楼转了一遍,有两间卧室,和一个厨房,一个食厅.</sentence>
+		<sentence index="2" character="YeAn_aside">有一个卧室是闲置的,虽说是闲置,但却十分整洁,似乎这位先生是在等待这间卧室的主人回来.</sentence>
+		<sentence index="3" character="YeAn">不管了,躺下先吧,真是累的够呛.</sentence>
+		<command>scene end</command>
+	</section>
+</scene>
+
+<item index="1" name="notebook">
+		<detail index="1">梦境编织理论</detail>
+		<detail index="2">这是我自己小时候写的,</detail>
+		<detail index="3">讲的是怎么让自己的梦境按照自己的想法的来,</detail>
+		<detail index="4">虽然理论已经被我当时初步证实,</detail>
+		<detail index="5">但是因为有一定的偶然性所以我并没有打算发布或者什么别的</detail>
+</item>
+
+</storyScript>
